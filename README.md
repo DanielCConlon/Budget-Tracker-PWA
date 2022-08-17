@@ -1,7 +1,7 @@
 # budget-tracker-pwa
 
-Github URL: https://github.com/DanielCConlon/budget-tracker-pwa
-Heroku URL: https://cryptic-eyrie-23348.herokuapp.com/
+- Github URL: https://github.com/DanielCConlon/budget-tracker-pwa
+- Heroku URL: https://cryptic-eyrie-23348.herokuapp.com/
 
 ## Table-of-Contents
 

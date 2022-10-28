@@ -1,7 +1,8 @@
 # budget-tracker-pwa
 
 - Github URL: https://github.com/DanielCConlon/budget-tracker-pwa
-- Heroku URL: https://cryptic-eyrie-23348.herokuapp.com/
+- Heroku URL: updating heroku deployment
+<!-- https://cryptic-eyrie-23348.herokuapp.com/ -->
 
 ## Table-of-Contents
 
